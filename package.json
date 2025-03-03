@@ -23,6 +23,7 @@
     "@mantine/core": "7.16.2",
     "@mantine/hooks": "7.16.2",
     "@mantinex/dev-icons": "^1.1.0",
+    "@tanstack/react-router": "^1.112.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-router-dom": "^7.1.3"
@@ -32,6 +33,8 @@
     "@ianvs/prettier-plugin-sort-imports": "^4.4.1",
     "@storybook/react": "^8.5.0",
     "@storybook/react-vite": "^8.5.0",
+    "@tanstack/router-devtools": "^1.112.6",
+    "@tanstack/router-plugin": "^1.112.3",
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.2.0",
